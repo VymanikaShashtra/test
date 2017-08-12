@@ -25,6 +25,7 @@ public class AuthorService {
 		listPerson.add(p1);
 		listPerson.add(p2);
 		System.out.println("hi");
+		System.out.println("mastercheck");
 		return listPerson;
 	}
 
