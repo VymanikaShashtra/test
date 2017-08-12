@@ -24,6 +24,7 @@ public class AuthorService {
 		p2.setName("name2");
 		listPerson.add(p1);
 		listPerson.add(p2);
+		System.out.println("hi");
 		return listPerson;
 	}
 
