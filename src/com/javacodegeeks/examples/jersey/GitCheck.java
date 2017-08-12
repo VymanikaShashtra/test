@@ -7,7 +7,7 @@ public class GitCheck {
 		System.out.println("master Check");
 		System.out.println("master Check2");
 		System.out.println("master Check2 after Branch");
-
+		System.out.println("master Check2 after Branch2");
 	}
 
 }
