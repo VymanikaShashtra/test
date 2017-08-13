@@ -12,6 +12,7 @@ public class GitCheck {
 		System.out.println("master Check4 after Branch");
 		System.out.println("master Check5 after Branch");
 		System.out.println("new--------------------------------->");
+		System.out.println("master Check6 after Branch");
 	}
 
 }
